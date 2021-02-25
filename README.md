@@ -1,7 +1,7 @@
 
 ### Icon Editor (Java)
 
-by: Keith Fenske, http://kwfenske.github.io/
+by: Keith Fenske, https://kwfenske.github.io/
 
 IconEdit is a Java 1.4 graphical (GUI) application to edit icon files for
 Windows. An icon file has several images in sizes like 16x16, 24x24, 32x32,
@@ -11,7 +11,7 @@ be transparent and let the background show through. Please note that IconEdit
 is an old program and does not support alpha channels, compressed data (PNG
 images), or icons larger than 256 pixels.
 
-Download the ZIP file here: http://kwfenske.github.io/icon-editor-java.zip
+Download the ZIP file here: https://kwfenske.github.io/icon-editor-java.zip
 
 Released under the terms and conditions of the GNU General Public License,
 version 3 or later (GPLv3+).
