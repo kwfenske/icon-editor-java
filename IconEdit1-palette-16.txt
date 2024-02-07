@@ -1,0 +1,34 @@
+#
+# IconEdit1-palette-16.txt 2023-05-09
+#
+# by: Keith Fenske, https://kwfenske.github.io/
+#
+# This is the standard Windows 16-color palette as RGB values (red, green,
+# blue). Do not change the order.
+#
+# If you want to make a custom palette for the "Icon Edit" Java application,
+# try to modify as few entries as possible. For example, if you want to add
+# only one color, replace the (192,192,192) line.
+#
+
+0 0 0		# black
+128 0 0		# maroon (dark red)
+0 128 0		# green
+128 128 0	# olive
+
+0 0 128		# navy (dark blue)
+128 0 128	# purple
+0 128 128	# teal (dark cyan)
+192 192 192	# silver (light gray)
+
+128 128 128	# gray
+255 0 0		# red
+0 255 0		# lime (light green)
+255 255 0	# yellow
+
+0 0 255		# blue
+255 0 255	# fuchsia (violet)
+0 255 255	# aqua (light cyan)
+255 255 255	# white
+
+# EOF
